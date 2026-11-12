@@ -1,3 +1,5 @@
+package com.example.pertemuan9roomdaatabase.room
+
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
