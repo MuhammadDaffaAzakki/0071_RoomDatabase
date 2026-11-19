@@ -10,10 +10,9 @@ import androidx.compose.ui.input.nestedscroll.nestedScroll
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.pertemuan9roomdaatabase.viewmodel.EntryViewModel
-import com.example.pertemuan9roomdaatabase.viewmodel.PenyediaViewModel
+import com.example.pertemuan9roomdaatabase.viewmodel.provider.PenyediaViewModel
 import com.example.pertemuan9roomdaatabase.uicontroller.DestinasiNavigasi
 import com.example.pertemuan9roomdaatabase.R
-import com.example.pertemuan9roomdaatabase.uicontroller.SiswaTopAppBar
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.layout.fillMaxWidth
